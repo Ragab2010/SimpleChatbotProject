@@ -1,6 +1,8 @@
 # Simple C++ Chatbot
 
-![Chatbot Demo](Simple_Cpp_Chatbot.gif)
+<!--![Chatbot Demo](Simple_Cpp_Chatbot.gif)
+-->
+<kbd><img src="Simple_Cpp_Chatbot.gif" width="300"></kbd>
 
 ## Description
 
