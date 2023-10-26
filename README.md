@@ -25,12 +25,12 @@ A simple C++ chatbot project designed to engage in natural language conversation
 - Compile and build the project using your C++ compiler.
 - Run the chatbot application in the command-line interface.
 - Start chatting with the chatbot.
-
+---
+<!--
 ## Usage
 
 Provide instructions on how to interact with the chatbot and any specific commands or features it supports.
 ---
-<!--
 ## Contributing
 
 If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
