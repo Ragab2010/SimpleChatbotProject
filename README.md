@@ -2,7 +2,7 @@
 
 <!--![Chatbot Demo](Simple_Cpp_Chatbot.gif)
 -->
-<kbd><img src="Simple_Cpp_Chatbot.gif" width="300"></kbd>
+<kbd><img src="Simple_Cpp_Chatbot.gif" width="500"></kbd>
 
 ## Description
 
