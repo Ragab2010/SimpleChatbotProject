@@ -29,7 +29,8 @@ A simple C++ chatbot project designed to engage in natural language conversation
 ## Usage
 
 Provide instructions on how to interact with the chatbot and any specific commands or features it supports.
-
+---
+<!--
 ## Contributing
 
 If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -41,7 +42,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Mention any external libraries, resources, or inspirations you used or found helpful during the project development.
-
 ---
 
 **Note:** The above sections are placeholders. Make sure to replace the GIF link with your own chatbot demo GIF and add detailed information about your project as needed.
+
+-->
