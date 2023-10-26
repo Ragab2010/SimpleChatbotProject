@@ -27,3 +27,5 @@ add_executable(SimpleChatbot ${SOURCE_FILES})
 
 # If you have additional libraries or dependencies, you can add them here
 
+# Add the command to make the GitHub project C++
+set_property(TARGET SimpleChatbot PROPERTY LANGUAGE CXX)
