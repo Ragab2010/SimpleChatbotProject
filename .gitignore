@@ -1,2 +1,4 @@
-*.cpp linguist-language=C++
-*.h linguist-language=C++
+CMakeFiles/*.*
+CMakeCache.txt
+SimpleChatbot
+CMakeFiles/Makefile2
