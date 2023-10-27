@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/01D5AB1A0D598E50/Ragab/books/C++/c++projects/SimpleChatbotProject
+# Install script for directory: /usr/local/google/home/moelsherif/Desktop/Github_projs/SimpleChatbotProject
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/01D5AB1A0D598E50/Ragab/books/C++/c++projects/SimpleChatbotProject/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/usr/local/google/home/moelsherif/Desktop/Github_projs/SimpleChatbotProject/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

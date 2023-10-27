@@ -22,8 +22,21 @@ A simple C++ chatbot project designed to engage in natural language conversation
 ## Getting Started
 
 - Clone the repository.
-- Compile and build the project using your C++ compiler.
+- Go to main folder
+- run the following commands to build the project
+
+```
+cmake .
+make
+```
 - Run the chatbot application in the command-line interface.
+- Start chatting with the chatbot.
+
+## Build instructons
+
+- Clone the repository.
+- Compile and build the project using your C++ compiler.
+- Run the command `./SimpleChatbot` to launch chatbot application in the command-line interface.
 - Start chatting with the chatbot.
 ---
 <!--
