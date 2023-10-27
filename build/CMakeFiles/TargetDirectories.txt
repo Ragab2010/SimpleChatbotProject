@@ -1,3 +1,0 @@
-/mnt/01D5AB1A0D598E50/Ragab/books/C++/c++projects/SimpleChatbotProject/build/CMakeFiles/SimpleChatbot.dir
-/mnt/01D5AB1A0D598E50/Ragab/books/C++/c++projects/SimpleChatbotProject/build/CMakeFiles/edit_cache.dir
-/mnt/01D5AB1A0D598E50/Ragab/books/C++/c++projects/SimpleChatbotProject/build/CMakeFiles/rebuild_cache.dir
