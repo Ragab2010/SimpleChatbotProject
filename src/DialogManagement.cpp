@@ -1,26 +1,3 @@
-// // DialogManagement.cpp
-// #include "DialogManagement.h"
-
-// void DialogManagement::Init() {
-//     // Initialize conversation state or context as needed
-//     conversationState = "start";
-// }
-
-// void DialogManagement::UpdateConversationState(const std::string& intent) {
-//     // Update conversation state based on intent
-//     // You can implement more sophisticated conversation flow here
-//     if (intent == "greeting") {
-//         conversationState = "greeting";
-//     }
-//     // Add more conditions for other intents and conversation flow
-// }
-
-// bool DialogManagement::ShouldExit() {
-//     // Check if the conversation should end
-//     // You can add exit conditions as needed
-//     return (conversationState == "exit");
-// }
-
 // DialogManagement.cpp
 #include "DialogManagement.h"
 
